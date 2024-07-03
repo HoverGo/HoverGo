@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanaccount&theme=transparent&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hovergo&theme=transparent&show_icons=true" alt="GitHub Stats">
 </div>
 
 ## 🛠 Навыки
